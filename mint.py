@@ -1,7 +1,7 @@
 '''
 Created on Jun 26, 2014
 
-@author: Phumudzo Muvhango
+@author: Jnr
 '''
 import sys
 from PyQt4.QtGui import *
